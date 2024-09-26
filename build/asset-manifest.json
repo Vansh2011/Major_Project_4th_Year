@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.86ae26cd.css",
+    "main.js": "/static/js/main.b67a5d20.js",
+    "static/js/453.220127ba.chunk.js": "/static/js/453.220127ba.chunk.js",
+    "static/media/MobiKwik-Logo.wine.png": "/static/media/MobiKwik-Logo.wine.2be8e1fc6d01b37bd75f.png",
+    "static/media/Airtel.png": "/static/media/Airtel.2fa82cd98527a0e17528.png",
+    "static/media/logo.png": "/static/media/logo.fba59b666ff7030be1bc.png",
+    "static/media/visa.png": "/static/media/visa.08fd2fc37f6e932875a6.png",
+    "index.html": "/index.html",
+    "main.86ae26cd.css.map": "/static/css/main.86ae26cd.css.map",
+    "main.b67a5d20.js.map": "/static/js/main.b67a5d20.js.map",
+    "453.220127ba.chunk.js.map": "/static/js/453.220127ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86ae26cd.css",
+    "static/js/main.b67a5d20.js"
+  ]
+}
